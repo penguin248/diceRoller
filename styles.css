@@ -30,3 +30,12 @@ input {
     text-align: center;
     font-weight: bold;
 }
+
+#diceResult {
+    margin: 25px;
+}
+
+
+#diceImages {
+    margin: 10px;
+}
